@@ -3,9 +3,9 @@ This repository consists of the source code to all the mini projects andend of t
 
 ## Getting Started
 Following softwares are recommended in order to execute the files:
--**Sublime Text** for text editing
--**Google Chrome Browser** as web browser to run your code
--**Apache XAMPP** for running PHP scripts locally and also for using phpMyAdmin for SQL section
+- **Sublime Text** for text editing
+- **Google Chrome Browser** as web browser to run your code
+- **Apache XAMPP** for running PHP scripts locally and also for using phpMyAdmin for SQL section
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/asterdan712/Complete_Web_Developer_Course/README.md) file for details
