@@ -12,7 +12,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Author
 **ABHIJOY SARKAR**
-Email:- [asterdan712@gmail.com]
+Email:- [asterdan712@gmail.com](asterdan712@gmail.com)
 
 ## Acknowledgements
 **Rob Percival** for putting together such an exciting course for budding web developers and beginners alike.
